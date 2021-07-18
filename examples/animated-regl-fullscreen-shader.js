@@ -60,7 +60,7 @@ const sketch = ({ gl, update, render, pause }) => {
 
       // Clear backbuffer with pure white
       regl.clear({
-        color: [ 0, 0, 0, 0 ],
+        color: [0, 1, 0, 0 ],
         depth: 1,
         stencil: 0
       });

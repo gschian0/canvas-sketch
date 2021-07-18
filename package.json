@@ -11,6 +11,7 @@
     "url": "https://github.com/mattdesl"
   },
   "dependencies": {
+    "@ffmpeg-installer/ffmpeg": "^1.1.0",
     "convert-length": "^1.0.1",
     "dateformat": "^3.0.3",
     "deep-equal": "^1.0.1",
